@@ -1,4 +1,4 @@
-﻿#Able to login to Harvest
+﻿#Able to login to Harvest and go to the Timesheet of the First and Last Entry of the page
 
 $requestUri = "https://sohodragon.harvestapp.com/missing_time";
 
